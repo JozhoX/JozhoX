@@ -1,5 +1,5 @@
 # 💫 About Me:
-📓 I’m currently studying at **Kasetsart University (Computer Science)**<br>🌱 I’m currently learning **Golang**<br>🎹 I love playing the piano.
+📓 I’m currently studying at **Kasetsart University (Computer Science)**
 
 
 ## 🌐 Socials:
