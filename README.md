@@ -2,7 +2,7 @@
 📓 I’m currently studying at **Kasetsart University (Computer Science)**
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__jozho__) 
 
 # 💻 Tech Stack:
