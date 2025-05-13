@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="150" src="https://github.com/JozhoX.png"  />
-</div>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
